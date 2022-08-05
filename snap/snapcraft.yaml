@@ -53,7 +53,7 @@ apps:
       - opengl
       - removable-media
       
-part:
+parts:
   cgoban1:
     plugin: autotools
     source: "https://github.com/Joker2770/cgoban1-snap/raw/main/cgoban-1.9.14.tar.gz"
