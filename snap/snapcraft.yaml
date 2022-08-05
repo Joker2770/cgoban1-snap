@@ -24,7 +24,7 @@
 # After registering a name on build.snapcraft.io, commit an uncommented line:
 name: cgoban1
 version: '1.9.14' # just for humans, typically '1.2+git' or '1.3.2'
-summary: CGoban1 ("Complete Goban Mark 1") provides a large set of go-related services for Unix and X11. # 79 char long summary
+summary: CGoban1 provides a large set of go-related services for Unix and X11. # 79 char long summary
 description: |
   The CGoban 1 program is a Unix-based client for connection to internet go server
   that use protocols similar to the one used by IGS, the Internet Go Server.
