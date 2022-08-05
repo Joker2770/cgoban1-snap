@@ -38,7 +38,7 @@ license: 'GPL-2.0'
 
 apps:
   cgoban1:
-    command: usr/games/bin/cgoban
+    command: bin/cgoban
     plugs:
       - home
       - audio-playback
