@@ -64,7 +64,7 @@ parts:
       - automake
       - make
       - libx11-dev
-    autotools-configure-parameters:
+    configflags:
       -  --x-includes=/usr/include/X11
       -  --x-libraries=/usr/lib/X11
     stage-packages:
