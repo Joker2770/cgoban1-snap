@@ -1,11 +1,11 @@
 [Desktop Entry]
 Version=1.9.14
 Encoding=UTF-8
-Comment=CGoban1 ("Complete Goban Mark 1") provides a large set of go-related services for Unix and X11.
+Comment=CGoban1 provides a large set of go-related services for Unix and X11.
 Name=cgoban1
 Terminal=false
 Type=Application
-Exec=cgoban
+Exec=cgoban1
 Categories=Game;BoardGame;
 Keywords=igs;nngs;go;board;game
 Icon=${SNAP}/meta/gui/cgoban_icon.png
