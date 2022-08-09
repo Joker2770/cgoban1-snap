@@ -31,6 +31,8 @@ description: |
   It also functions as a SGF (Smart Game Format) browser
   that lets you view and edit go game records.
 
+  about IGS: http://www.pandanet.co.jp/English/sintro1.html
+
 grade: stable # must be 'stable' to release into candidate/stable channels
 confinement: strict # use 'strict' once you have the right plugs and slots
 base: core18
