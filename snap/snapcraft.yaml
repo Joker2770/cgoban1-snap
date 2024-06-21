@@ -58,8 +58,10 @@ apps:
 parts:
   cgoban1:
     plugin: autotools
-    source: "https://github.com/Joker2770/cgoban1-snap/raw/main/cgoban-1.9.14.tar.gz"
-    source-type: tar
+    source: "https://github.com/koroal/cgoban.git"
+    source-type: git
+    source-branch: master
+    source-depth: 1
     build-packages:
       - gcc
       - build-essential
