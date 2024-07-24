@@ -8,4 +8,4 @@ Type=Application
 Exec=cgoban1
 Categories=Game;BoardGame;
 Keywords=igs;nngs;go;board;game
-Icon=${SNAP}/meta/gui/cgoban_icon.png
+Icon=${SNAP}/meta/gui/cgoban1.png
